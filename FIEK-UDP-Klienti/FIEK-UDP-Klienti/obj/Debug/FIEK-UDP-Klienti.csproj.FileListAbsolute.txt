@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-UDP-Klienti\FIEK-UDP-Klienti\bin\Debug\FIEK-UDP-Klienti.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-UDP-Klienti\FIEK-UDP-Klienti\bin\Debug\FIEK-UDP-Klienti.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-UDP-Klienti\FIEK-UDP-Klienti\bin\Debug\FIEK-UDP-Klienti.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-UDP-Klienti\FIEK-UDP-Klienti\obj\Debug\FIEK-UDP-Klienti.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-UDP-Klienti\FIEK-UDP-Klienti\obj\Debug\FIEK-UDP-Klienti.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-UDP-Klienti\FIEK-UDP-Klienti\obj\Debug\FIEK-UDP-Klienti.csprojResolveAssemblyReference.cache

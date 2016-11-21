@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-TCP-Serveri\FIEK-TCP-Serveri\bin\Debug\FIEK-TCP-Serveri.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-TCP-Serveri\FIEK-TCP-Serveri\bin\Debug\FIEK-TCP-Serveri.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-TCP-Serveri\FIEK-TCP-Serveri\bin\Debug\FIEK-TCP-Serveri.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-TCP-Serveri\FIEK-TCP-Serveri\obj\Debug\FIEK-TCP-Serveri.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-TCP-Serveri\FIEK-TCP-Serveri\obj\Debug\FIEK-TCP-Serveri.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-TCP-Serveri\FIEK-TCP-Serveri\obj\Debug\FIEK-TCP-Serveri.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Google Drive\2.Rrjeta kompjuterike\Projekti p1\FIEK-TCP-Serveri\FIEK-TCP-Serveri\bin\Debug\FIEK-TCP-Serveri.exe.config
+C:\Users\Lenovo\Google Drive\2.Rrjeta kompjuterike\Projekti p1\FIEK-TCP-Serveri\FIEK-TCP-Serveri\obj\Debug\FIEK-TCP-Serveri.exe
+C:\Users\Lenovo\Google Drive\2.Rrjeta kompjuterike\Projekti p1\FIEK-TCP-Serveri\FIEK-TCP-Serveri\obj\Debug\FIEK-TCP-Serveri.pdb
+C:\Users\Lenovo\Google Drive\2.Rrjeta kompjuterike\Projekti p1\FIEK-TCP-Serveri\FIEK-TCP-Serveri\bin\Debug\FIEK-TCP-Serveri.exe
+C:\Users\Lenovo\Google Drive\2.Rrjeta kompjuterike\Projekti p1\FIEK-TCP-Serveri\FIEK-TCP-Serveri\bin\Debug\FIEK-TCP-Serveri.pdb
+C:\Users\Lenovo\Google Drive\2.Rrjeta kompjuterike\Projekti p1\FIEK-TCP-Serveri\FIEK-TCP-Serveri\obj\Debug\FIEK-TCP-Serveri.csprojResolveAssemblyReference.cache

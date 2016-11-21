@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-TCP-Klienti\FIEK-TCP-Klienti\bin\Debug\FIEK-TCP-Klienti.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-TCP-Klienti\FIEK-TCP-Klienti\bin\Debug\FIEK-TCP-Klienti.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-TCP-Klienti\FIEK-TCP-Klienti\bin\Debug\FIEK-TCP-Klienti.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-TCP-Klienti\FIEK-TCP-Klienti\obj\Debug\FIEK-TCP-Klienti.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-TCP-Klienti\FIEK-TCP-Klienti\obj\Debug\FIEK-TCP-Klienti.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-TCP-Klienti\FIEK-TCP-Klienti\obj\Debug\FIEK-TCP-Klienti.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Google Drive\2.Rrjeta kompjuterike\Projekti p1\FIEK-TCP-Klienti\FIEK-TCP-Klienti\bin\Debug\FIEK-TCP-Klienti.exe.config
+C:\Users\Lenovo\Google Drive\2.Rrjeta kompjuterike\Projekti p1\FIEK-TCP-Klienti\FIEK-TCP-Klienti\obj\Debug\FIEK-TCP-Klienti.exe
+C:\Users\Lenovo\Google Drive\2.Rrjeta kompjuterike\Projekti p1\FIEK-TCP-Klienti\FIEK-TCP-Klienti\obj\Debug\FIEK-TCP-Klienti.pdb
+C:\Users\Lenovo\Google Drive\2.Rrjeta kompjuterike\Projekti p1\FIEK-TCP-Klienti\FIEK-TCP-Klienti\bin\Debug\FIEK-TCP-Klienti.exe
+C:\Users\Lenovo\Google Drive\2.Rrjeta kompjuterike\Projekti p1\FIEK-TCP-Klienti\FIEK-TCP-Klienti\bin\Debug\FIEK-TCP-Klienti.pdb
+C:\Users\Lenovo\Google Drive\2.Rrjeta kompjuterike\Projekti p1\FIEK-TCP-Klienti\FIEK-TCP-Klienti\obj\Debug\FIEK-TCP-Klienti.csprojResolveAssemblyReference.cache

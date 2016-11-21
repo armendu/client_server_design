@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-UDP-Serveri\FIEK-UDP-Serveri\bin\Debug\FIEK-UDP-Serveri.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-UDP-Serveri\FIEK-UDP-Serveri\bin\Debug\FIEK-UDP-Serveri.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-UDP-Serveri\FIEK-UDP-Serveri\bin\Debug\FIEK-UDP-Serveri.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-UDP-Serveri\FIEK-UDP-Serveri\obj\Debug\FIEK-UDP-Serveri.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-UDP-Serveri\FIEK-UDP-Serveri\obj\Debug\FIEK-UDP-Serveri.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\FIEK-UDP-Serveri\FIEK-UDP-Serveri\obj\Debug\FIEK-UDP-Serveri.csprojResolveAssemblyReference.cache
